@@ -1,0 +1,17 @@
+{
+  "name": "pixi-seaport",
+  "version": "1.0.0",
+  "description": "Fujitsu's Digital Annealer prototype by Chris Kennedy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Kennedy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
